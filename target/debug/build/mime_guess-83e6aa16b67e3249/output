@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\2025\2025代码\rust-crate-recommender\target\debug\build\mime_guess-83e6aa16b67e3249\out\mime_types_generated.rs

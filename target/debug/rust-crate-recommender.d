@@ -1,0 +1,1 @@
+C:\2025\2025代码\rust-crate-recommender\target\debug\rust-crate-recommender.exe: C:\2025\2025代码\rust-crate-recommender\src\main.rs C:\2025\2025代码\rust-crate-recommender\src\models.rs C:\2025\2025代码\rust-crate-recommender\src\scorer.rs C:\2025\2025代码\rust-crate-recommender\src\services.rs

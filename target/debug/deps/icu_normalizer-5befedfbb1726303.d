@@ -1,0 +1,11 @@
+C:\2025\2025代码\rust-crate-recommender\target\debug\deps\libicu_normalizer-5befedfbb1726303.rmeta: C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs
+
+C:\2025\2025代码\rust-crate-recommender\target\debug\deps\libicu_normalizer-5befedfbb1726303.rlib: C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs
+
+C:\2025\2025代码\rust-crate-recommender\target\debug\deps\icu_normalizer-5befedfbb1726303.d: C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs
+
+C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\lib.rs:
+C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\error.rs:
+C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\properties.rs:
+C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\provider.rs:
+C:\Users\21101\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\icu_normalizer-1.5.0\src\uts46.rs:
